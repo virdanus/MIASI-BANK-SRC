@@ -1,5 +1,5 @@
 # miasi-bank-src
-BANK - Projekt - MIASI - 2017
+BANK - Projekt - PUT - WI - MIASI - 2017
 
 Daniel Szczurek - 96887
 
